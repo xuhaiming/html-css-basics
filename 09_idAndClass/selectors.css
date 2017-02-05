@@ -1,0 +1,15 @@
+h1, p {
+    color: grey;
+}
+
+h1.special {
+    color: red;
+}
+
+p.special {
+    color: blue;
+}
+
+div p {
+    color: green;
+}

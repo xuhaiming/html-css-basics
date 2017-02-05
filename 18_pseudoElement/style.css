@@ -1,0 +1,19 @@
+h1::before {
+    content: '@';
+    margin-right: 5px;
+}
+
+h1::after {
+    content: '$';
+    margin-left: 10px;
+}
+
+.right {
+    float: right;
+}
+
+.container::after {
+    content: '';
+    display: block;
+    clear: right;
+}

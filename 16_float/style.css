@@ -1,0 +1,15 @@
+.logo {
+    float: left;
+}
+
+button {
+    float: right;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.another {
+    float: right;
+}
